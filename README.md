@@ -22,6 +22,7 @@
 - Masa finance:https://www.masa.finance/
 - Stride:https://stride.zone/
 - Kyve:https://www.kyve.network/
+- Subquery:https://subquery.network/
 
 ### 🔗 My socials:
 - Discord: Meowment#1978
