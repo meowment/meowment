@@ -23,6 +23,7 @@
 - Stride:https://stride.zone/
 - Kyve:https://www.kyve.network/
 - Subquery:https://subquery.network/
+- MesonNetwork:https://meson.network/
 
 ### 🔗 My socials:
 - Discord: Meowment#1978
