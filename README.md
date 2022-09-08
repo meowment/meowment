@@ -1,28 +1,29 @@
-### HEY THERE, I'm meowment
-📍 Indonesia
-👩🏼‍💻 I'm a node runner, crypto enthuasist, contributor, content creator.
+### Hey there, I'm meowment
+### 📍ID 🇲🇨
 
-📂 Languages:
-Indonesian
-English
+- Node runner, crypto enthuasist, contributor, content creator.
 
-✨ Skills:
+### 📂 Languages:
+- Indonesian
+- English
 
-Copywriting (posts on socials, text)
-Design by Photoshop (pictures, branded stickers, memes, giffs)
-Content creating
+### ✨ Skills:
 
-🛠 I've been doing node running. PROJECTS:
+- Copywriting (posts on socials, text)
+- Design by Photoshop (pictures, branded stickers, memes, giffs)
+- Content creating
 
-Forta: https://forta.org/
-SeiNetwork: https://www.seinetwork.io/
-Minima: https://www.minima.global/
-Massa: https://massa.net/
-Masa finance: https://www.masa.finance/
-Stride: https://stride.zone/
-Kyve: https://www.kyve.network/
+### 🛠 I've been doing node running:
 
-🔗 My socials:
-Discord: Meowment#1978
-Twitter: @mrobbyw123
+- Forta:https://forta.org/
+- SeiNetwork:https://www.seinetwork.io/
+- Minima:https://www.minima.global/
+- Massa:https://massa.net/
+- Masa finance:https://www.masa.finance/
+- Stride:https://stride.zone/
+- Kyve:https://www.kyve.network/
+
+### 🔗 My socials:
+- Discord: Meowment#1978
+- Twitter: @mrobbyw123
 ✉️ muhrobbyw@gmail.com
