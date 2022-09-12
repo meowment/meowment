@@ -82,7 +82,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Twitter</strong></span><br><br />
             <a href="https://twitter.com/mrobbyw123" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://raw.githubusercontent.com/meowment/NodesBlocks/main/chains_logo/twitter.png">
+            <img height="40px" src="https://github.com/meowment/meowment/blob/main/Logo/twitter.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Discord</strong></span><br><br />
