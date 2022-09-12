@@ -34,11 +34,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>Quicksilver</strong></span><br><br />
-            <a href="https://quicksilver.explorers.guru/validator/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://raw.githubusercontent.com/meowment/NodesBlocks/main/chains_logo/twitter.png">
-            </td>
-            <td width="130px" align="center">
             <span><strong>Stride</strong></span><br><br />
             <a href="https://stride.explorers.guru/validator/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stride.png">
