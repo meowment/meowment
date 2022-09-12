@@ -6,7 +6,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h4><b><i>V A L I D A T O R &nbsp; P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h4>
+  <h4><b><i>P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h4>
     <img align="top" src="https://komarev.com/ghpvc/?username=elangrr&color=blueviolet"/>
 <br />
 <br />
