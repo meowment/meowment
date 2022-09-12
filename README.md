@@ -27,7 +27,10 @@
 - Discord: Meowment#1978
 - Twitter: @mrobbyw123
 
-<div align=": flex-
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <br />
+<h1>meowment</h1>
 <h5><i> &nbsp;M E O W M E N T&nbsp;&nbsp;</h5></i>
 <br />
 <br />
