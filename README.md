@@ -27,26 +27,8 @@
 - Discord: Meowment#1978
 - Twitter: @mrobbyw123
 
-<div align="center">
-<img
-  src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/frontpage.jpg"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
-
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <h4><b><i>V A L I D A T O R &nbsp; P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h4>
-    <img align="top" src="https://komarev.com/ghpvc/?username=elangrr&color=blueviolet"/>
-<br />
-<br />
-  </div>
-</div>
-
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <br />
-<h1>Indonode.dev</h1>
-<h5><i> &nbsp;I N D O N O D E&nbsp;&nbsp;</h5></i>
+<div align=": flex-
+<h5><i> &nbsp;M E O W M E N T&nbsp;&nbsp;</h5></i>
 <br />
 <br />
 Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our clients. We are validator in different blockchains as Ethereum, Cosmos, Polkadot and running following mainnets and testnets:
