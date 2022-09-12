@@ -1,5 +1,4 @@
 ### Hey there, I'm meowment
-### 📍ID 🇲🇨
 
 - Node runner, crypto enthuasist, contributor, content creator.
 
