@@ -13,16 +13,6 @@
   </div>
 </div>
 
-### 📂 Languages:
-- Indonesian
-- English
-
-### ✨ Skills:
-
-- Copywriting (posts on socials, text)
-- Design by Photoshop (pictures, branded stickers, memes, giffs)
-- Content creating
-- 
 ### 🔗 My socials:
 - Discord: Meowment#1978
 - Twitter: @mrobbyw123
