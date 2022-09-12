@@ -15,14 +15,6 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h2><i>S O C I A L S</i></h2>
-  </div>
-</div>
-- Discord: Meowment#1978
-- Twitter: @mrobbyw123
-
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
   <br />
 <h1>MEOWMENT</h1>
 <h5><i> &nbsp;R U N N I N G N O D E&nbsp;&nbsp;</h5></i>
