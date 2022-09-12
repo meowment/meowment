@@ -69,7 +69,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
-  Indonode.dev owns a validators private community on Discord where we are focused on the research of the new projects <br />
+  meowment owns a validators private community on Discord where we are focused on the research of the new projects <br />
   You can join now !
   <br />
   <br />
@@ -80,9 +80,9 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>Website</strong></span><br><br />
-            <a href="https://indonode.dev/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/elangrr/elangrr/blob/main/elang.png.gif">
+            <span><strong>Twitter</strong></span><br><br />
+            <a href="https://twitter.com/mrobbyw123" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="(https://raw.githubusercontent.com/meowment/NodesBlocks/main/chains_logo/twitter.png)">
             </td>
             <td width="130px" align="center">
             <span><strong>Discord</strong></span><br><br />
@@ -101,13 +101,13 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=elangrr&show_icons=true&theme=nightowl"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=meowment&show_icons=true&theme=nightowl"/>
 <br />
 <br />
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=elangrr&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=meowment&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
 <br />
 <br />
-   <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangrr&layout=compact&theme=nightowl"/>
+   <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowment&layout=compact&theme=nightowl"/>
   </div>
 </div>
 
