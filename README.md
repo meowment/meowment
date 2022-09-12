@@ -1,6 +1,17 @@
-### Hey there, I'm meowment
+<div align="center">
+<img
+  src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/frontpage.jpg"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-- Node runner, crypto enthuasist, contributor, content creator.
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h4><b><i>V A L I D A T O R &nbsp; P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h4>
+    <img align="top" src="https://komarev.com/ghpvc/?username=elangrr&color=blueviolet"/>
+<br />
+<br />
+  </div>
+</div>
 
 ### 📂 Languages:
 - Indonesian
@@ -11,24 +22,11 @@
 - Copywriting (posts on socials, text)
 - Design by Photoshop (pictures, branded stickers, memes, giffs)
 - Content creating
-
-### 🛠 I've been doing node running:
-
-- Forta:https://forta.org/
-- SeiNetwork:https://www.seinetwork.io/
-- Minima:https://www.minima.global/
-- Massa:https://massa.net/
-- Masa finance:https://www.masa.finance/
-- Stride:https://stride.zone/
-- Kyve:https://www.kyve.network/
-- Subquery:https://subquery.network/
-- MesonNetwork:https://meson.network/
-
+- 
 ### 🔗 My socials:
 - Discord: Meowment#1978
 - Twitter: @mrobbyw123
 
-✉️ muhrobbyw@gmail.com
 <div align="center">
 <img
   src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/frontpage.jpg"
