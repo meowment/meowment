@@ -70,7 +70,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
-  <br />
 
 <table width="320px" align="center">
     <tbody>
