@@ -70,8 +70,8 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
-  meowment owns a validators private community on Discord where we are focused on the research of the new projects <br />
-  You can join now !
+  <br />
+
   <br />
   <br />
   </div>
@@ -84,11 +84,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>Twitter</strong></span><br><br />
             <a href="https://twitter.com/mrobbyw123" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/meowment/meowment/blob/main/Logo/twitter.png">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Discord</strong></span><br><br />
-            <a href="https://discord.gg/9KqXAVekve" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/discord.png">
             </td>
         </tr>
     </tbody>
