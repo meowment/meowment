@@ -86,7 +86,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>Discord</strong></span><br><br />
-            <a href="https://discord.gg/gru6MuGPgP" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.gg/9KqXAVekve" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/discord.png">
             </td>
         </tr>
