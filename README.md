@@ -59,12 +59,12 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>Hypersign</strong></span><br><br />
+            <span><strong>Inery</strong></span><br><br />
             <a href="https://explorer.inery.io/master-nodes/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://raw.githubusercontent.com/meowment/tes/main/inery.jpeg?token=GHSAT0AAAAAAB3PO2HB53E3RJEN6EBOVFNUY4KROHA"> </a>
             </td>
             <td width="130px" align="center">
-            <span><strong>Point</strong></span><br><br />
+            <span><strong>SeiNetwork</strong></span><br><br />
             <a href="https://sei.explorers.guru/validator/seivaloper173tlvmuvua5qrrykad3vzsf6uq25lgx2qlkk0z" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://raw.githubusercontent.com/meowment/tes/main/sei.png?token=GHSAT0AAAAAAB3PO2HBW4ZSGE6OAP2PTYHQY4KRVEA">
             </td>
