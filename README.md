@@ -61,7 +61,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Inery</strong></span><br><br />
             <a href="https://explorer.inery.io/master-nodes/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://raw.githubusercontent.com/meowment/tes/main/inery.jpeg?token=GHSAT0AAAAAAB3PO2HB53E3RJEN6EBOVFNUY4KROHA">
+            <img height="40px" src="https://github.com/meowment/meowment/blob/main/Logo/inery.jpeg">
             </td>
             <td width="130px" align="center">
             <span><strong>SeiNetwork</strong></span><br><br />
