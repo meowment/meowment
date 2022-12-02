@@ -60,8 +60,8 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Hypersign</strong></span><br><br />
-            <a href=" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://raw.githubusercontent.com/elangrr/testnet_manuals/main/hypersign/hypersign.png"> </a>
+            <a href="https://explorer.inery.io/master-nodes/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://raw.githubusercontent.com/meowment/tes/main/inery.jpeg?token=GHSAT0AAAAAAB3PO2HB53E3RJEN6EBOVFNUY4KROHA"> </a>
             </td>
         </tr>
     </tbody>
