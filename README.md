@@ -14,15 +14,11 @@
   </div>
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9F7&background=FFFFFF00&width=435&lines=M+E+O+W+M+E+N+T" />
-</p>
-
 <html>
 <head>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9F7&background=FFFFFF00&width=435&lines=M+E+O+W+M+E+N+T" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9F7&background=FFFFFF00&width=435&lines=H+E+L+L+O++I'AM++M+E+O+W+M+E+N+T" align="center">
 <body>
-<h2> MEOW MEOW </h2> 
+<h2> MEOW MEOW~ </h2> align="right">
 
 <img src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/CATS.png" align="right">
 
@@ -101,7 +97,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 </table>
     
 <div align='center'>
-<img src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/CATS.png"
+<img src="https://i.pinimg.com/originals/e6/a5/00/e6a500600cda9fbeb387835074744eed.gif"
     
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
