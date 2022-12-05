@@ -16,7 +16,7 @@
 
 <html>
 <head>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=M+E+O+W+M+E+N+T">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+E+L+L+O++I'AM++M+E+O+W+M+E+N+T">
 <body>
 <h2> MEOW MEOW~ </h2>
 
