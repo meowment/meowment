@@ -16,9 +16,9 @@
 
 <html>
 <head>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9F7&background=FFFFFF00&width=435&lines=H+E+L+L+O++I'AM++M+E+O+W+M+E+N+T" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9F7&background=FFFFFF00&width=435&lines=H+E+L+L+O++I'AM++M+E+O+W+M+E+N+T" align="top">
 <body>
-<h2> MEOW MEOW~ </h2> align="right">
+<h2> MEOW MEOW~ </h2>
 
 <img src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/CATS.png" align="right">
 
