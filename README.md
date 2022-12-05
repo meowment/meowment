@@ -18,7 +18,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9F7&background=FFFFFF00&width=435&lines=M+E+O+W+M+E+N+T" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9F7&background=FFFFFF00&width=435&lines=NODE+VALIDATOR+%26+CONTENT+CREATOR"
+<img src=""
 
 <p align='center'>
 <img src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/CATS.png"
