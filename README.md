@@ -65,12 +65,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>Point</strong></span><br><br />
             <a href=" " target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/elangrr/NodesBlocks/blob/main/chains_logo/point.png">
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-
 
 
 <div align="left">
