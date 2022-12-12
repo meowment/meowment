@@ -107,10 +107,10 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; M E </i></h2>
 
-<table width="320px" align="left">
+<table width="320px" align="top">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="left">
+            <td width="130px" align="top">
             <span><strong>Twitter</strong></span><br><br />
             <a href="https://twitter.com/bbiewitme" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/meowment/meowment/blob/main/Logo/twitter.png">
