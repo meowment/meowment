@@ -107,6 +107,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center>
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; M E </i></h2>
