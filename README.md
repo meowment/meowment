@@ -2,7 +2,7 @@
 <img
   src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/frontpagemeowment.jpg"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-
+<img align="top" src="https://komarev.com/ghpvc/?username=meowment&color=blueviolet"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <html>
@@ -16,9 +16,6 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h4><b><i>L A N G U A G E S &nbsp;& T O O L S</b></i></h4>
-    <img align="top" src="https://komarev.com/ghpvc/?username=elangrr&color=blueviolet"/>
-<br />
-<br />
   </div>
 </div>
 
