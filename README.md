@@ -9,10 +9,10 @@
 <head>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+E+L+L+O++I'AM++M+E+O+W+M+E+N+T">
 <body>
+
+ ### 📍IDN
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
- ### 📍IDN
- 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h4><b><i>L A N G U A G E S &nbsp;& T O O L S</b></i></h4>
