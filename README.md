@@ -49,7 +49,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 
 <br />
 <br />
-<div align="left">
+<div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>M A I N N E T S</i></h2>
   </div>
@@ -80,13 +80,13 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 <br />
 <br />
 <br />
-<div align="top">
+<div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>T E S T N E T S</i></h2>
   </div>
 </div>
 
-<table width="320px" align="left">
+<table width="320px" align="center">
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
