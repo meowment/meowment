@@ -3,6 +3,8 @@
   src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/frontpagemeowment.jpg"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
  ### 📍IDN
  
 <div align="center">
@@ -18,6 +20,7 @@
 <head>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+E+L+L+O++I'AM++M+E+O+W+M+E+N+T">
 <body>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2> MEOW MEOW~ </h2>
 
 <img src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/CATS.png" align="right">
@@ -83,7 +86,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; M E </i></h2>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
@@ -104,7 +107,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
   <h2><i>G I T H U B &nbsp; S T A T S</i></h2>
   </div>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=meowment&show_icons=true&theme=nightowl"/>
@@ -116,6 +119,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
    <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowment&layout=compact&theme=nightowl"/>
   </div>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
