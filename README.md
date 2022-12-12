@@ -15,7 +15,7 @@
   
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h4><b><i>L A N G U A G E S &nbsp;& T O O L S</b></i></h4>
+  <h2><b><i>L A N G U A G E S &nbsp;& T O O L S</b></i></h2>
   </div>
 </div>
 
@@ -110,7 +110,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h4><b><i>C O N T A C T &nbsp;M E</b></i></h4>
+  <h2><b><i>C O N T A C T &nbsp;M E</b></i></h2>
   </div>
 </div>
 
