@@ -56,12 +56,12 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
 <table width="350px" align="left">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="left">
+            <td width="130px" align="center">
             <span><strong>Stride</strong></span><br><br />
             <a href="https://stride.explorers.guru/validator/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stride.png">
             </td>
-            <td width="130px" align="left">
+            <td width="130px" align="center">
             <span><strong>Point</strong></span><br><br />
             <a href=" " target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/elangrr/NodesBlocks/blob/main/chains_logo/point.png">
