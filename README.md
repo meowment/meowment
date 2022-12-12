@@ -90,6 +90,10 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <a href="https://sei.explorers.guru/validator/seivaloper173tlvmuvua5qrrykad3vzsf6uq25lgx2qlkk0z" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/meowment/meowment/blob/main/Logo/sei.png">
             </td>
+            <td width="130px" align="center">
+            <span><strong>SeiNetwork</strong></span><br><br />
+            <a href="https://defund.explorers.guru/validator/defundvaloper1667vcfxffywlj6l5ejh7vdnlksau5ejjhafwm9" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://raw.githubusercontent.com/meowment/meowment/main/Logo/defund.png">
         </tr>
     </tbody>
 </table>
