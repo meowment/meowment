@@ -103,7 +103,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Twitter</strong></span><br><br />
-            <a href="https://twitter.com/mrobbyw123" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/bbiewitme" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/meowment/meowment/blob/main/Logo/twitter.png">
             </td>
         </tr>
