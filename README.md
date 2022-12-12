@@ -47,21 +47,21 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
   </div>
 </div>
 
-<div align="center">
+<div align="left">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>M A I N N E T S</i></h2>
   </div>
 </div>
 
-<table width="350px" align="center">
+<table width="350px" align="left">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="center">
+            <td width="130px" align="left">
             <span><strong>Stride</strong></span><br><br />
             <a href="https://stride.explorers.guru/validator/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/stride.png">
             </td>
-            <td width="130px" align="center">
+            <td width="130px" align="left">
             <span><strong>Point</strong></span><br><br />
             <a href=" " target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/elangrr/NodesBlocks/blob/main/chains_logo/point.png">
@@ -98,14 +98,14 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     </tbody>
 </table>
 
-<div align="center">
+<div align="left">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T &nbsp; M E </i></h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<table width="320px" align="center">
+<table width="320px" align="left">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="center">
+            <td width="130px" align="left">
             <span><strong>Twitter</strong></span><br><br />
             <a href="https://twitter.com/bbiewitme" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/meowment/meowment/blob/main/Logo/twitter.png">
