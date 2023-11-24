@@ -1,9 +1,27 @@
+<div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <div align='center'>
 <img src="https://i.pinimg.com/originals/e6/a5/00/e6a500600cda9fbeb387835074744eed.gif"
+
+  ### 
+
+## I'm an independent node runner and testnet enthusiast for blockchain projects. 
+ 
+
+
   
-# I'm an independent node runner and testnet enthusiast for blockchain projects
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>C O N T A C T &nbsp; U S </i></h2>
+<p align="left"> 
+
+- ✉️ How to reach me **sychonixx@gmail.com**
+<h3 align="left">Connect with me:</h3>
     
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
