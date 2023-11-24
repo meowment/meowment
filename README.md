@@ -20,8 +20,7 @@
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
 <p align="left"> 
 
-- ✉️ How to reach me **meowmentplanets@gmail.com**
-<h3 align="left">Connect with me:</h3>
+**meowmentplanets@gmail.com**
     
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
