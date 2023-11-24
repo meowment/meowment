@@ -2,6 +2,8 @@
   
 <div align='center'>
 <img src="https://i.pinimg.com/originals/e6/a5/00/e6a500600cda9fbeb387835074744eed.gif"
+  
+# I'm an independent node runner and testnet enthusiast for blockchain projects
     
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
